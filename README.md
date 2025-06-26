@@ -28,7 +28,7 @@ Usage Instructions:
    - If you want to use AirVisual or any other API, add your key and modify the API request code accordingly.
 
 4. Run the main pipeline:
-   python deep_fuzzy_iaq.py
+   python deep_fuzzy_iaq (version 1.1 com.py).py
 
    - This will simulate data collection, perform all ML/fuzzy logic steps, and display/plot results.
    - Results are also saved to a CSV file (e.g., `results.csv`) for further analysis.
