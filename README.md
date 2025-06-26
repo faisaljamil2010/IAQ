@@ -48,9 +48,4 @@ Customization:
 - Swap the mock data generator for your real sensor data.
 - Tune fuzzy logic rules and ML model parameters as needed.
 - For MQTT/IoT device actuation, see the (commented) example code in the main script.
-
-Contact:
---------
-For questions or collaboration, please open an issue on the GitHub repository or contact the maintainer listed in the README.
-
 ---------------------------------------------
